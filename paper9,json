@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "801. In peacetime, a system of treatment which is used to provide medical care for emergencies is:",
+    "options": {
+      "a": "single-stage",
+      "b": "two-stage",
+      "c": "three-stage",
+      "d": "four-stage",
+      "e": "multi-stage"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "802.The optimal time for providing first aid in emergency situations is:",
+    "options": {
+      "a": "30 minutes",
+      "b": "1 hour",
+      "c": "2 hours",
+      "d": "4 hours",
+      "e": "6 hours"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "803.Types of medical care provided in the prehospital phase of disasters are:",
+    "options": {
+      "a": "any that can be utilized",
+      "b": "first aid, medical first aid, qualified",
+      "c": "first aid, premedical first aid, specialized",
+      "d": "first aid, premedical first aid, medical first aid",
+      "e": "First aid, specialized, qualified"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "804. Working practice in providing medical care for mass casualty admissions is:",
+    "options": {
+      "a": "rapid removal from the disaster area",
+      "b": "provision of emergency care",
+      "c": "clearly organized evacuation",
+      "d": "medical triage",
+      "e": "emergency evacuation"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "805. Radionuclides that determine radiation in the environment in the first weeks after an accident are:",
+    "options": {
+      "a": "cesium 137",
+      "b": "iodine 131",
+      "c": "barium 140",
+      "d": "strontium 90",
+      "e": "calcium 121"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "806.To protect the thyroid gland in accidents at radiation hazardous facilities, people use:",
+    "options": {
+      "a": "taren (aprophen)",
+      "b": "promedol",
+      "c": "etaperazine",
+      "d": "potassium iodide",
+      "e": "cystamine"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "807.A drug that replaces potassium iodide in radiation accidents is:",
+    "options": {
+      "a": "5% tincture of iodine",
+      "b": "0.5% chlorhexidine gluconate solution",
+      "c": "70% ethyl alcohol",
+      "d": "96% ethyl alcohol",
+      "e": "targin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "808.The standard personal medical protective equipment for emergencies is:",
+    "options": {
+      "a": "a cotton gauze dressing, an insulating gas mask, and an antichemical bag",
+      "b": "an individual first aid kit, individual dressing and chemical packs",
+      "c": "a chemical suit, a cotton gauze dressing, and an individual first aid kit",
+      "d": "a gas mask filter, an individual first aid kit, and an antichemical bag",
+      "e": "general-purpose military protective kit, first aid kit, and an antichemical bag"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "809. Collective protection measures are:",
+    "options": {
+      "a": "hospitals",
+      "b": "civil defense units",
+      "c": "shelters and protective constructions",
+      "d": "gas mask filters",
+      "e": "public facilities"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "810. First aid drugs for severe acute radiation sickness include:",
+    "options": {
+      "a": "antiemetics",
+      "b": "sedatives",
+      "c": "cardiovascular medications",
+      "d": "antibiotics",
+      "e": "analgesics"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "811.Methods to temporarily stop bleeding include:",
+    "options": {
+      "a": "ligation of the vessel in the wound",
+      "b": "stitching up the wound",
+      "c": "applying a hemostatic clamp",
+      "d": "splinting",
+      "e": "forced flexion of the limbs"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "812.In an ammonia accident, for respiratory protection, one should wear a bandage moistened with:",
+    "options": {
+      "a": "ethyl alcohol",
+      "b": "5% acetic acid solution",
+      "c": "2% solution of baking soda",
+      "d": "2% novocaine solution",
+      "e": "drinking water"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "813.Diseases that make it the most difficult to conduct rescue operations in an emergency zone are:",
+    "options": {
+      "a": "particularly dangerous infections",
+      "b": "colds",
+      "c": "cardiovascular diseases",
+      "d": "skin and subcutaneous tissue diseases",
+      "e": "musculoskeletal disorders"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "814.For the rescue of victims in an emergency, a special role is attributed to:",
+    "options": {
+      "a": "equipment of the medical service",
+      "b": "nature of the emergency",
+      "c": "time factor",
+      "d": "public notification",
+      "e": "availability of mechanization equipment"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "815.The author of the statement “''I will not give a woman a pessary to cause abortion” is:",
+    "options": {
+      "a": "Galen",
+      "b": "Ibn Sina",
+      "c": "Maimonides",
+      "d": "Hippocrates",
+      "e": "Paracelsus"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "816.The first-ever international set of ethical research principles about human experimentation is",
+    "options": {
+      "a": "the Nuremberg Code",
+      "b": "the Declaration of Helsinki",
+      "c": "WMA Declaration of Sydney",
+      "d": "Lisbon Declaration",
+      "e": "European Convention of Human Rights"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "817.An ethically permissible type of harm that can arise in a health care provider – patient relationship is:",
+    "options": {
+      "a": "harm caused by unskilled, unprofessional actions of a doctor or nurse",
+      "b": "harm caused by failure to provide assistance, inaction",
+      "c": "harm caused by negligence or malicious intent, e.g., selfish purpose",
+      "d": "harm caused by actions objectively necessary in a given situation (e.g., pain or discomfort during treatment)",
+      "e": "moral harm"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "818.The main difference between law and morality is that law:",
+    "options": {
+      "a": "exercises regulation at the level of individual moral consciousness and public opinion",
+      "b": "is implemented through laws, government regulations, and judicial decisions through direct or indirect coercion",
+      "c": "assumes free and voluntary fulfillment of its requirements",
+      "d": "represents a system of prohibitions, ideals, and requirements accepted and shared in society",
+      "e": "is a special form of self-determination of an individual"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "819.The golden rule of morality is:",
+    "options": {
+      "a": "“One should train themselves to do and act virtuously, not to talk about virtue\"",
+      "b": "\"The human person is infinite: this is the axiom of moral philosophy\"",
+      "c": "\"Do unto others as you would have others do unto you\"",
+      "d": "\"Goodness can only be established by means of good deeds\"",
+      "e": "\"Man should be seen as an end and not as a means to an end for anyone else's needs\""
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "820. People who are incapable of giving informed consent are:",
+    "options": {
+      "a": "foreigners",
+      "b": "women",
+      "c": "persons under 21 years of age",
+      "d": "persons with severe forms of disorders of consciousness",
+      "e": "persons under 18 years of age"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "821. A method of genetic engineering, focused on repetition of human or animal genotype, creation, and replication of genetic copies of people (animals) by means of sexless reproduction and other manipulations with genetic material is called:",
+    "options": {
+      "a": "cloning",
+      "b": "positive eugenics",
+      "c": "negative eugenics",
+      "d": "interference with the human genome",
+      "e": "gene therapy"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "822. According to ethical requirements, a patient (research participant) may refuse to participate in an experiment:",
+    "options": {
+      "a": "before the experiment begins (before signing an agreement to participate in the experiment)",
+      "b": "during the experiment, unless an advance payment of compensation for participation in the experiment has been received",
+      "c": "during the experiment, if the patient (research participant) has returned the advance payment of compensation",
+      "d": "at the final stage, if the results of the experiment have already been predetermined",
+      "e": "at any stage of the experiment, regardless of receiving the advance payment"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "823. A provision related to deontological ethics is:",
+    "options": {
+      "a": "the objective of achieving the common good is more important than the interests of an individual",
+      "b": "an action is considered morally justified to the extent to which it leads to maximizing the common good",
+      "c": "the motive for the action should be fulfillment of the duty",
+      "d": "benefit is the basis of morality and the criterion for human actions",
+      "e": "the virtuous life of the man is connected with self-restraint"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "824.A principle of bioethics that emerged in the last third of the XX century is:",
+    "options": {
+      "a": "the principle of justice",
+      "b": "the principle of respect for patient autonomy",
+      "c": "the principle of courtesy",
+      "d": "the principle of beneficence",
+      "e": "the \"do no harm\" principle"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "825. A type of organ harvesting from a cadaver for transplantation that is called \"presumption of non-consent\" (\"informed consent\") is described as:",
+    "options": {
+      "a": "medical professionals can harvest organs from a cadaver for transplantation because the deceased person's body is public property",
+      "b": "if the deceased did not raise objections to this during their lifetime, or if no relatives raised objections, the deceased is presumed to have consented to the procedure",
+      "c": "if there is no consent (explicitly expressed during life) to the provision of organs for transplantation, the deceased person’s non-consent to the procedure is presumed",
+      "d": "if the deceased person’s relatives do not consent to the removal of organs",
+      "e": "if the relatives of the deceased consent to the removal of organs"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "826. Definition of euthanasia is:",
+    "options": {
+      "a": "any action or, conversely, inaction that, by its nature or intent, results in death that has as its purpose elimination of pain and suffering",
+      "b": "suicide of the patient",
+      "c": "termination of lives of “unnecessary” persons",
+      "d": "medical and psychosocial care for dying patients",
+      "e": "relief of suffering for sick people"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "827. Xenotransplantation is:",
+    "options": {
+      "a": "transplantation of tissues and organs from an embryo",
+      "b": "transplantation of tissues and organs from a cadaver",
+      "c": "transplantation of tissues and organs from animals",
+      "d": "transplantation of tissues and organs from a living donor who is a relative of the recipient",
+      "e": "transplantation of tissues and organs from a living donor who is not a relative of the recipient"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "828.The most ancient and traditional model of a physician – patient relationship, which is characterized by comparing the physician – patient relationship to a father – child relationship is:",
+    "options": {
+      "a": "deliberative",
+      "b": "informative",
+      "c": "technical",
+      "d": "paternalistic",
+      "e": "interpretive"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "829. Interventions in human health can be implemented:",
+    "options": {
+      "a": "on the basis of free and informed consent of the patient",
+      "b": "on the basis of medical indications",
+      "c": "on basis of rarity of the disease presentation and its cognitive value",
+      "d": "on the basis of a relatives’ request",
+      "e": "on the basis of a profit"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "830.“Voluntary acceptance by the patient of a course of treatment or therapeutic procedure after adequate information has been provided by the physician” is the definition of:",
+    "options": {
+      "a": "a competent patient",
+      "b": "patient autonomy",
+      "c": "the rule of truthfulness",
+      "d": "rules of confidentiality",
+      "e": "an informed consent"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "831. “The information about a patient that a physician receives may not be disclosed to third parties without patient's authorization” is:",
+    "options": {
+      "a": "the principle of truthfulness",
+      "b": "the principle of confidentiality",
+      "c": "the principle of politeness",
+      "d": "the principle of fairness",
+      "e": "the principle of beneficence"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "832.In Russia, induced termination of pregnancy only at the woman's request is performed:",
+    "options": {
+      "a": "up to 10 weeks of gestation",
+      "b": "up to 12 weeks of gestation",
+      "c": "up to 16 weeks of gestation",
+      "d": "up to 22 weeks of gestation",
+      "e": "up to 28 weeks of gestation"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "833.The characteristic of active voluntary euthanasia is:",
+    "options": {
+      "a": "at the request of a patient, a physician facilitates patient's death by providing the patient with the means or information necessary to do so",
+      "b": "a physician administers a lethal dose of a drug at the request of a competent patient",
+      "c": "a physician administers a lethal dose of a drug without patient's knowledge or consent",
+      "d": "a physician discontinues life-sustaining treatment at the request of patient's relatives, without patient's knowledge or consent",
+      "e": "a physician discontinues life-sustaining treatment at the request of a competent patient"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "834. Palliative care is:",
+    "options": {
+      "a": "medical care of an involuntary nature",
+      "b": "unconventional methods of treatment, prevention and recovery based on principles of alternative medicine",
+      "c": "life-sustaining treatment (mechanical ventilation, artificial blood circulation, parenteral nutrition)",
+      "d": "medical care that temporarily alleviates manifestations of the disease, but does not cure it",
+      "e": "medical care provided to a patient immediately after surgery"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "835.A hospice is a facility for:",
+    "options": {
+      "a": "providing care for dying patients",
+      "b": "providing care for cancer patients",
+      "c": "providing care for socially disadvantaged patients",
+      "d": "providing nursing home care",
+      "e": "providing care for elderly patients"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "836.The attitude toward euthanasia in Russia according to Russian legislation is:",
+    "options": {
+      "a": "active euthanasia is prohibited, and passive euthanasia is allowed only with a written consent of the patient",
+      "b": "only active euthanasia is prohibited",
+      "c": "only passive euthanasia is prohibited",
+      "d": "both types of euthanasia are permitted",
+      "e": "both types of euthanasia are prohibited"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "837.The new criterion for death according to the WMA Declaration of Sydney is:",
+    "options": {
+      "a": "irreversible cessation of cerebral cortical function",
+      "b": "irreversible cessation of function of the cerebral hemispheres",
+      "c": "irreversible cessation of all brain function, including the brain stem and first cervical segments",
+      "d": "prolonged absence of independent breathing and heartbeat",
+      "e": "absence of consciousness for 3 months"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "838. The provision related to the liberal (“pro-choice”) position on the issue of induced abortion is that:",
+    "options": {
+      "a": "the embryo is a potential human being and, therefore, has inalienable rights and dignity",
+      "b": "a woman should not be forced to carry an unwanted fetus, otherwise the principle of patient autonomy is violated",
+      "c": "abortion is the killing of an innocent human being",
+      "d": "dangerous and unavoidable consequences of abortion include impairment of woman's physical and mental health",
+      "e": "the embryo has a special ontological and moral status and is not part of the mother's body"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "839.A statement regarding surrogacy that can be categorized as a conservative (“against”) position is:",
+    "options": {
+      "a": "for a family that is childless because of the wife's inability to conceive or carry a fetus, it is the only way to have a child that will be genetically “his” for the husband",
+      "b": "surrogacy is not commercialization of childbearing, but a deeply human act of love and cooperation",
+      "c": "surrogacy turns children into a commodity, creating a situation in which wealthy people will be able to hire women to bear their offspring",
+      "d": "surrogacy is essentially not that much different from the adoption process, as parents receive the desired child",
+      "e": "surrogacy not only does not harm children, but is the only way for childless couples to affirm the value of family life"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "840. A provision that is a social indication for induced abortion in the Russian Federation (up to 22 weeks of gestation) is:",
+    "options": {
+      "a": "death of the husband during pregnancy",
+      "b": "presence of disability group I–II of the husband",
+      "c": "the woman is in prison",
+      "d": "large family (more than 3 children)",
+      "e": "pregnancy as a result of a rape"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "841. In the Russian Federation, under the Family Code, the mother of a child born through surrogacy is considered to be (in case of a disputable situation):",
+    "options": {
+      "a": "the woman who gave birth to the child",
+      "b": "the woman whose egg was used",
+      "c": "depends on how the contract is drafted",
+      "d": "the court decides on a case-by-case basis depending on the circumstances",
+      "e": "the decision is made by a commission set up in the medical institution where in vitro fertilization was performed, headed by the chief physician"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "842.In the Russian Federation, clinical trials of medicines can be conducted on:",
+    "options": {
+      "a": "minors without parents",
+      "b": "pregnant women",
+      "c": "persons with mental illnesses and recognized as incompetent in accordance with the procedure established by the law of the Russian Federation “On psychiatric care and guarantees of citizens' rights during its provision”",
+      "d": "military personnel",
+      "e": "prisoners or remand prisoners"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "843.It is possible to disclose confidential information about a child to the child's parents or legal representatives (without the patient's consent):",
+    "options": {
+      "a": "up to 14 years of age",
+      "b": "up to 15 years of age",
+      "c": "up to 16 years of age",
+      "d": "up to 18 years of age",
+      "e": "depends on the child's developmental level"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "844. According to the Declaration of Helsinki, a non-therapeutic experiment is:",
+    "options": {
+      "a": "a research method that is conducted not by an internal medicine physician but by any other professional",
+      "b": "based on the practice of working with patients",
+      "c": "a study without a protocol",
+      "d": "medical research aimed at advancing medical science and testing drugs, conducted more often on healthy people",
+      "e": "a study aimed at healing a patient"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "845.The ancient Russian state of Kievan Rus originated in:",
+    "options": {
+      "a": "IX century",
+      "b": "XV century",
+      "c": "XVII century",
+      "d": "XVIII century",
+      "e": "XIX century"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "846.The ruler of Kievan Rus with whom Christianity was adopted was:",
+    "options": {
+      "a": "Yaroslav the Wise",
+      "b": "Vladimir the Holy",
+      "c": "Svyatoslav Igorevich",
+      "d": "Igor the Old",
+      "e": "Oleg the Prophet"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "847.The first code of laws of Kievan Rus was called:",
+    "options": {
+      "a": "Sobornoye Ulozhenie",
+      "b": "Sudebnik",
+      "c": "Russian Pravda",
+      "d": "Table of Ranks",
+      "e": "Constitution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "848.The names of Theophanes the Greek, Andrei Rublev, and Dionysius are associated with the development of:",
+    "options": {
+      "a": "book printing",
+      "b": "architecture",
+      "c": "icon painting",
+      "d": "chronicle writing",
+      "e": "music"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "849.The Battle on the Ice was won by:",
+    "options": {
+      "a": "Dmitry Donskoy",
+      "b": "Peter the Great",
+      "c": "Svyatoslav Igorevich",
+      "d": "Alexander Nevsky",
+      "e": "Ivan the Terrible"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "850.The Tatar – Mongol invasion of Russian lands in the 13th century was led by:",
+    "options": {
+      "a": "Genghis Khan",
+      "b": "Batu",
+      "c": "Tamerlane",
+      "d": "Tokhtamysh",
+      "e": "Uzbek"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "851.The first great victory of the Russian troops over the main military forces of the Horde took place:",
+    "options": {
+      "a": "on Borodino field",
+      "b": "on the Neva River",
+      "c": "on Lake Peipus",
+      "d": "on Kulikovo field",
+      "e": "at Poltava"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "852.The hero of old Russian epic is:",
+    "options": {
+      "a": "Stepan Razin",
+      "b": "Grigory Rasputin",
+      "c": "Ilya Muromets",
+      "d": "Emelyan Pugachev",
+      "e": "Boris Godunov"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "853.The time of transition of peasants from one owner to another, according to the Sudebnik of 1497 was called:",
+    "options": {
+      "a": "\"Zapovedenye leta\" (Forbidden years)",
+      "b": "\"Yuryev Day\"",
+      "c": "\"Urochniye leta\" (Statute of limitations)",
+      "d": "\"Othodnichestvo\" (Leaving for seasonal work)",
+      "e": "\"Mesyachina\" (Monthly payment issues to landless serfs)"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "854.The first Russian ruler to receive the title of tsar was:",
+    "options": {
+      "a": "Yaroslav the Wise",
+      "b": "Ivan the Terrible",
+      "c": "Mikhail Romanov",
+      "d": "Peter the Great",
+      "e": "Boris Godunov"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "855.The event that ended the dependence of the Russian lands on the Horde was:",
+    "options": {
+      "a": "the Battle on the Ice",
+      "b": "the Great Stand on the Ugra River",
+      "c": "the Azov sitting",
+      "d": "the Battle of the Nations",
+      "e": "the Battle of Poltava"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "856.The result of foreign policy of Ivan the Terrible was:",
+    "options": {
+      "a": "the annexation of Crimea to Russia",
+      "b": "the annexation of the left-bank Ukraine to Russia",
+      "c": "the annexation of the Khanate of Kazan and Astrakhan to Russia",
+      "d": "the annexation of Poland to Russia",
+      "e": "conquest of access to the Baltic Sea by Russia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "857.A system of measures taken by Ivan the Terrible to strengthen autocratic power was called:",
+    "options": {
+      "a": "mestnichestvo",
+      "b": "oprichnina",
+      "c": "zemshchina",
+      "d": "khovanshchina",
+      "e": "Non-possessors movement"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "858.The ruler in the Time of Troubles was:",
+    "options": {
+      "a": "Ivan the Terrible",
+      "b": "Dmitry Donskoy",
+      "c": "Boris Godunov",
+      "d": "Elizabeth Petrovna",
+      "e": "Princess Olga"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "859. The accession of the Romanov dynasty refers to:",
+    "options": {
+      "a": "XV century",
+      "b": "XVI century",
+      "c": "XVII century",
+      "d": "XVIII century",
+      "e": "XIX century"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "860.The Kunstkamera, founded by Peter the Great, is",
+    "options": {
+      "a": "a natural science museum",
+      "b": "a theater",
+      "c": "an art gallery",
+      "d": "an orthodox church",
+      "e": "a botanical garden"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "861.Russia became an empire during the reign of:",
+    "options": {
+      "a": "Ivan the Terrible",
+      "b": "Peter the Great",
+      "c": "Alexander II",
+      "d": "Nicholas II",
+      "e": "Stalin"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "862.The era of coups included the reign of:",
+    "options": {
+      "a": "Peter the Great",
+      "b": "Paul I",
+      "c": "Alexander I",
+      "d": "Anna Ioannovna",
+      "e": "Princess Olga"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "863.The initiator of the opening of Moscow University is",
+    "options": {
+      "a": "E.R. Dashkova",
+      "b": "G.R. Derzhavin",
+      "c": "V.N. Tatishchev",
+      "d": "N.I. Novikov",
+      "e": "M.V. Lomonosov"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "864.The period of Alexander I’s reign included:",
+    "options": {
+      "a": "World War I",
+      "b": "Civil War",
+      "c": "Patriotic War of 1812",
+      "d": "Northern War",
+      "e": "Crimean War"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "865.A contemporary of Nicholas I was:",
+    "options": {
+      "a": "A.S. Pushkin",
+      "b": "L.N. Tolstoy",
+      "c": "A.P. Chekhov",
+      "d": "A.N. Radishchev",
+      "e": "M.A. Bulgakov"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "866. The abolition of serfdom took place in:",
+    "options": {
+      "a": "1861",
+      "b": "1865",
+      "c": "1961",
+      "d": "1855",
+      "e": "1888"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "867. P.P. Semyonov – Tyan-Shansky and N.M. Przhevalsky were famous as:",
+    "options": {
+      "a": "mathematicians",
+      "b": "travelers",
+      "c": "chemists",
+      "d": "physicists",
+      "e": "literary men"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "868.The reign of Nicholas II included:",
+    "options": {
+      "a": "the creation of the Synod",
+      "b": "the creation of nuclear weapons",
+      "c": "the Copper Rebellion",
+      "d": "Bloody Sunday",
+      "e": "the enslavement of the peasants"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "869. Following the 1917 October revolution, the people who came to power were:",
+    "options": {
+      "a": "cadets",
+      "b": "monarchists",
+      "c": "anarchists",
+      "d": "slavophiles",
+      "e": "bolsheviks"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "870.The leader of the Bolshevik Party was:",
+    "options": {
+      "a": "A.V. Kolchak",
+      "b": "V.I. Lenin",
+      "c": "P.N. Milyukov",
+      "d": "N.I. Makhno",
+      "e": "P.A. Stolypin"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "871.Which of the concepts belongs to the period of Stalin's rule?",
+    "options": {
+      "a": "rehabilitation",
+      "b": "GULAG",
+      "c": "Perestroika",
+      "d": "Virgin Lands Campaign",
+      "e": "CIS"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "872.Nazi Germany's plan of attacking the Soviet Union was called:",
+    "options": {
+      "a": "\"Citadel\"",
+      "b": "\"Typhoon\"",
+      "c": "\"Ost\"",
+      "d": "\"Barbarossa",
+      "e": "\"Eastward thrust\""
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "873.The policy pursued by Mikhail Gorbachev was called:",
+    "options": {
+      "a": "Thaw",
+      "b": "The era of stagnation",
+      "c": "Perestroika",
+      "d": "Collectivization",
+      "e": "Military communism"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "874. Mass construction of apartment houses with separate apartments for families began under the reign of:",
+    "options": {
+      "a": "Stalin",
+      "b": "N.S. Khrushchev",
+      "c": "L.I. Brezhnev",
+      "d": "M.S. Gorbachev",
+      "e": "B.N. Yeltsin"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "875. Mental integration of parts into one whole is:",
+    "options": {
+      "a": "synthesis",
+      "b": "analysis",
+      "c": "comparison",
+      "d": "characterization",
+      "e": "modeling"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "876. Mental division of a whole into its parts is:",
+    "options": {
+      "a": "synthesis",
+      "b": "analysis",
+      "c": "analogy",
+      "d": "deduction",
+      "e": "induction"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "877. Logical reasoning from the general rule to the specific application is called:",
+    "options": {
+      "a": "analogy",
+      "b": "modeling",
+      "c": "induction",
+      "d": "deduction",
+      "e": "characterization"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "878.Logical reasoning from the particular to the general is called:",
+    "options": {
+      "a": "generalization",
+      "b": "modeling",
+      "c": "induction",
+      "d": "deduction",
+      "e": "analogy"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "879. Theoretical cognition includes:",
+    "options": {
+      "a": "experimentation",
+      "b": "measurement",
+      "c": "observation",
+      "d": "idealization",
+      "e": "comparison"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "880. Proponents of asceticism preach:",
+    "options": {
+      "a": "renouncing worldly temptations",
+      "b": "altruism in the service of ideals",
+      "c": "making the best out of everything",
+      "d": "enjoyment of life",
+      "e": "social engagement"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "881.Understanding every human action as predetermined in advance is:",
+    "options": {
+      "a": "fatalism",
+      "b": "voluntarism",
+      "c": "nihilism",
+      "d": "pragmatism",
+      "e": "cynicism"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "882.An unintentional misrepresentation of knowledge is:",
+    "options": {
+      "a": "lying",
+      "b": "fantasy",
+      "c": "delusion",
+      "d": "truth",
+      "e": "doubt"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "883.A person's ability to solve problems without realizing the method of solution is:",
+    "options": {
+      "a": "contemplation",
+      "b": "observation",
+      "c": "intellect",
+      "d": "intuition",
+      "e": "inference"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "884. A single member of a biological species or social group is:",
+    "options": {
+      "a": "an individual",
+      "b": "a human being",
+      "c": "a hero",
+      "d": "a person",
+      "e": "a personality"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "885. A form of scientific knowledge that contains an assumption and needs to be proved is a:",
+    "options": {
+      "a": "law",
+      "b": "principle",
+      "c": "definition",
+      "d": "theory",
+      "e": "hypothesis"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "886. A system of rules, techniques, and procedures used to obtain reliable knowledge is called a:",
+    "options": {
+      "a": "theory",
+      "b": "method",
+      "c": "paradigm",
+      "d": "knowledge",
+      "e": "skill"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "887. Norms that imply the formal equality of people are:",
+    "options": {
+      "a": "law",
+      "b": "morality",
+      "c": "religion",
+      "d": "politics",
+      "e": "philosophy"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "888. Human ideas about the good and evil, happiness, and duty are embodied in the norms of:",
+    "options": {
+      "a": "politics",
+      "b": "science",
+      "c": "arts",
+      "d": "laws",
+      "e": "morality"
+    },
+    "correct_answer": "e"
+  },
+  {
+    "question": "889.The philosophical discipline that investigates the origin and nature of morality and ethic is:",
+    "options": {
+      "a": "aesthetics",
+      "b": "ethics",
+      "c": "ergonomics",
+      "d": "logic",
+      "e": "anthropology"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "890.The form of sense knowledge is a:",
+    "options": {
+      "a": "sensation",
+      "b": "judgment",
+      "c": "hypothesis",
+      "d": "premonition",
+      "e": "realization"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "891. People who believe that the source of knowledge about the world is mind are:",
+    "options": {
+      "a": "intuitivists",
+      "b": "sensationalists",
+      "c": "spiritualists",
+      "d": "rationalists",
+      "e": "empiricists"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "892.People who believe that the source of knowledge about the world is senses are:",
+    "options": {
+      "a": "intuitivists",
+      "b": "sensationalists",
+      "c": "spiritualists",
+      "d": "rationalists",
+      "e": "existentialists"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "893.The results of an empirical study are:",
+    "options": {
+      "a": "scientific facts",
+      "b": "scientific theories",
+      "c": "scientific hypotheses",
+      "d": "scientific problems",
+      "e": "scientific ideas"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "894. Knowledge whose truth has not been proven is called:",
+    "options": {
+      "a": "hypothetical",
+      "b": "theoretical",
+      "c": "empirical",
+      "d": "ignorance",
+      "e": "generalization"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "895. A person’s ability to evaluate his or her inner world and behavior is:",
+    "options": {
+      "a": "psyche",
+      "b": "self-awareness",
+      "c": "will",
+      "d": "emotions",
+      "e": "memory"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "896.The logical technique of transferring some attributes of one object to another object similar to it is:",
+    "options": {
+      "a": "generalization",
+      "b": "analogy",
+      "c": "modeling",
+      "d": "abstraction",
+      "e": "construction"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "897.The first historical form of holistic and imaginative perception of the world is:",
+    "options": {
+      "a": "mythology",
+      "b": "science",
+      "c": "politics",
+      "d": "philosophy",
+      "e": "religion"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "898.A person's subjective attitude to something is:",
+    "options": {
+      "a": "a concept",
+      "b": "an opinion",
+      "c": "a fact",
+      "d": "truth",
+      "e": "knowledge"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "899.Unlike an opinion, knowledge:",
+    "options": {
+      "a": "expresses a person's subjective view",
+      "b": "does not require justification",
+      "c": "possesses the attribute of truth",
+      "d": "is intuitive",
+      "e": "does not need to be confirmed"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "900.The question about the meaning of life is prompted by the thought of whether life is worth living if each person is:",
+    "options": {
+      "a": "spiritless",
+      "b": "mortal",
+      "c": "restricted",
+      "d": "weak",
+      "e": "suppressed"
+    },
+    "correct_answer": "b"
+  }
+]
