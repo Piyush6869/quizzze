@@ -3,44 +3,32 @@ import Quiz from './Quiz';
 import './App.css'; // For general app styling
 import './Tabs.css'; // For tab-specific styling
 
+// Directly import the JSON files from the src folder
+import paper4 from './paper4.json';
+import paper5 from './paper5.json';
+import paper6 from './paper6.json';
+import paper7 from './paper7.json';
+import paper8 from './paper8.json';
+import paper9 from './paper9.json';
+
 function App() {
-  // Define the list of available quizzes/papers
-  const quizPapers = [
-    'paper4',
-    'paper5',
-    'paper6',
-    'paper7',
-    'paper8',
-    'paper9'
-  ];
-
-  // State to keep track of the currently active tab (defaults to the first paper)
-  const [activeTab, setActiveTab] = useState(quizPapers[0]);
-  const [questions, setQuestions] = useState([]);
-  const [loading, setLoading] = useState(false); // Set to false initially as we load on tab change
-  const [error, setError] = useState(null);
-
-  // Function to fetch questions based on the active tab
-  const fetchQuestions = async (paperName) => {
-    setLoading(true);
-    setError(null);
-    try {
-      const response = await fetch(`/${paperName}.JSON`); // Construct the path
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      const data = await response.json();
-      // Shuffle questions after fetching
-      const shuffledQuestions = shuffleArray(data);
-      setQuestions(shuffledQuestions);
-    } catch (e) {
-      setError(e);
-    } finally {
-      setLoading(false);
-    }
+  // Map paper names to their corresponding question data
+  const paperData = {
+    paper4,
+    paper5,
+    paper6,
+    paper7,
+    paper8,
+    paper9
   };
 
-  // Fisher-Yates (Knuth) shuffle algorithm
+  const quizPapers = Object.keys(paperData);
+
+  const [activeTab, setActiveTab] = useState(quizPapers[0]);
+  const [questions, setQuestions] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
   const shuffleArray = (array) => {
     let currentIndex = array.length, randomIndex;
     while (currentIndex !== 0) {
@@ -53,10 +41,23 @@ function App() {
     return array;
   };
 
-  // Effect to fetch questions whenever the activeTab changes
   useEffect(() => {
+    const fetchQuestions = (paperName) => {
+      setLoading(true);
+      setError(null);
+      try {
+        const data = paperData[paperName];
+        const shuffledQuestions = shuffleArray([...data]); // Clone before shuffling
+        setQuestions(shuffledQuestions);
+      } catch (e) {
+        setError(e);
+      } finally {
+        setLoading(false);
+      }
+    };
+
     fetchQuestions(activeTab);
-  }, [activeTab]); // Re-run when activeTab changes
+  }, [activeTab]);
 
   const handleTabClick = (tabName) => {
     setActiveTab(tabName);
@@ -74,7 +75,7 @@ function App() {
             className={`tab-button ${activeTab === paperName ? 'active' : ''}`}
             onClick={() => handleTabClick(paperName)}
           >
-            {paperName.replace('pAPER', 'Paper ')} {/* Display as "Paper 4", "Paper 5", etc. */}
+            {paperName.replace('paper', 'Paper ')}
           </button>
         ))}
       </nav>
