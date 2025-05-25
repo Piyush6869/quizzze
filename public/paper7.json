@@ -1,0 +1,1006 @@
+[
+  {
+    "question": "601.The clinical manifestation of secondary disease stage 4B of HIV infection is:",
+    "options": {
+      "a": "recurrent Salmonella sepsis",
+      "b": "generalized form of Kaposi's sarcoma",
+      "c": "progressive weight loss",
+      "d": "candidiasis of the esophagus, trachea, bronchi, and lungs"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "602. Which of the following often occurs in the oral cavity in HIV infection?",
+    "options": {
+      "a": "erythema multiforme",
+      "b": "candidiasis",
+      "c": "oral lichen planus",
+      "d": "verrucous leukoplakia"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "603. HIV related opportunistic diseases include:",
+    "options": {
+      "a": "toxoplasmosis",
+      "b": "lymphogranulomatosis",
+      "c": "Mycoplasma pneumoniae",
+      "d": "chronic shigellosis"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "604. A screening method for diagnosing HIV infection is:",
+    "options": {
+      "a": "immunoblotting",
+      "b": "ELISA",
+      "c": "PCR",
+      "d": "optical microscopy"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "605.Fever in malaria at the peak of disease severity is:",
+    "options": {
+      "a": "remitting",
+      "b": "persistent",
+      "c": "intermittent",
+      "d": "hectic"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "606.Which of the following is characterized by a malignant course of the disease?",
+    "options": {
+      "a": "Plasmodium vivax malaria",
+      "b": "Plasmodium ovale malaria",
+      "c": "jungle fever",
+      "d": "quartan malaria"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "607.The main method for specific diagnosis of malaria is :",
+    "options": {
+      "a": "parasitological",
+      "b": "immunological",
+      "c": "biological",
+      "d": "molecular genetic"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "608.The typical clinical manifestation of tick-borne rickettsiosis is:",
+    "options": {
+      "a": "diarrhea",
+      "b": "polyadenopathy",
+      "c": "primary affect",
+      "d": "relapsing fever"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "609.The duration of the incubation period in tick-borne encephalitis is:",
+    "options": {
+      "a": "1–30 days",
+      "b": "6–24 hours",
+      "c": "24–48 hours",
+      "d": "7–14 days"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "610.A febrile form of tick-borne encephalitis is characterized by:",
+    "options": {
+      "a": "acute onset and mild fever",
+      "b": "gradual onset with low-grade fever",
+      "c": "the presence of meningeal syndrome complex",
+      "d": "the presence of severe catarrhal manifestations"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "611 Tick-borne meningoencephalitis is characterized by:",
+    "options": {
+      "a": "gradual onset with normal body temperature",
+      "b": "the presence of flaccid paralysis",
+      "c": "the presence of disorders of consciousness",
+      "d": "the presence of flaccid paralysis of the neck muscles"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "612.In tick-borne encephalitis, there may be distant sequelae in the form of:",
+    "options": {
+      "a": "paralysis with muscle atrophy in the shoulder girdle, neck, and upper extremities",
+      "b": "hydrocephalus",
+      "c": "blindness",
+      "d": "deafness"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "613.Fever response in Lyme borreliosis is predominantly:",
+    "options": {
+      "a": "febrile",
+      "b": "hyperpyrexia",
+      "c": "absent",
+      "d": "low-grade"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "614.The pathognomonic symptom of Lyme borreliosis is:",
+    "options": {
+      "a": "serous meningitis",
+      "b": "erythema in the area of the tick bite",
+      "c": "enlargement of regional lymph nodes",
+      "d": "facial nerve neuritis"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "615.Characteristic signs of nervous system involvement in borreliosis include:",
+    "options": {
+      "a": "facial nerve neuritis",
+      "b": "flaccid paralysis of muscles of the neck, shoulder girdle, and upper extremities",
+      "c": "hyperkinesia and epileptic seizures",
+      "d": "dementia"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "616.The characteristic sign of skin lesions in borreliosis is:",
+    "options": {
+      "a": "benign lymphocytoma cutis",
+      "b": "solid chancre",
+      "c": "eosinophilic granuloma",
+      "d": "erythema nodosum"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "617.Typical arthrologic manifestations in borreliosis include:",
+    "options": {
+      "a": "oligoarthritis involving large joints",
+      "b": "osteoarthritis of small joints",
+      "c": "shoulder arthritis",
+      "d": "polyarthritis involving large joints"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "618.The drug of choice in the treatment of Lyme borreliosis is:",
+    "options": {
+      "a": "amoxicillin and clavulanic acid",
+      "b": "levofloxacin",
+      "c": "gentamicin",
+      "d": "cefazolin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "619.The duration of the course of curative therapy for acute borreliosis is:",
+    "options": {
+      "a": "5 days",
+      "b": "7 days",
+      "c": "14 days",
+      "d": "28 days"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "620.The duration of a course of curative therapy for chronic borreliosis is:",
+    "options": {
+      "a": "10 days",
+      "b": "14 days",
+      "c": "21 days",
+      "d": "28 days or more"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "621.The earliest symptom in new-onset erysipelas is:",
+    "options": {
+      "a": "erythema with clear borders and irregular contours",
+      "b": "swelling of soft tissues in the lesion",
+      "c": "pain in the inflammatory area",
+      "d": "fever with chills"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "622. Local changes in erysipelas are characterized by:",
+    "options": {
+      "a": "acute soreness in the center of the inflammatory area",
+      "b": "pronounced dense edema of soft tissues",
+      "c": "marked hyperemia with clear boundaries and irregular contours",
+      "d": "hyperemia with indistinct borders and rounded contours"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "623.The inflammatory area in erysipelas is localized predominantly in the:",
+    "options": {
+      "a": "Back",
+      "b": "Upper extremities",
+      "c": "Lower extremities",
+      "d": "Abdomen"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "624.Typical complications of erysipelas include:",
+    "options": {
+      "a": "polyarthritis",
+      "b": "thrombophlebitis",
+      "c": "mitral valve defect",
+      "d": "toxic nephrosis"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "625.The drug of choice for new-onset erysipelas in the outpatient setting is:",
+    "options": {
+      "a": "azithromycin",
+      "b": "benzylpenicillin",
+      "c": "rifampicin",
+      "d": "cefazolin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "626.The drug of choice for new-onset erysipelas in the inpatient setting is:",
+    "options": {
+      "a": "benzylpenicillin",
+      "b": "azithromycin",
+      "c": "cefotaxime",
+      "d": "ciprofloxacin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "627.The drug of choice to treat recurrent erysipelas is:",
+    "options": {
+      "a": "benzylpenicillin",
+      "b": "ofloxacin",
+      "c": "erythromycin",
+      "d": "ceftriaxone"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "628. Which of the following is necessary to prevent recurrences of erysipelas?",
+    "options": {
+      "a": "sanitation of chronic foci of streptococcal infection",
+      "b": "balanced nutrition",
+      "c": "taking multivitamins and adaptogens",
+      "d": "disinfection of the living space (ultraviolet irradiation, wet cleaning)"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "629. Anthrax-induced carbuncle is characterized by:",
+    "options": {
+      "a": "formation of a sharply painful regional bubo",
+      "b": "decreased pain sensitivity",
+      "c": "development of dense edema at the edges of the ulcer",
+      "d": "the presence of abundant purulent discharge"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "630.The typical predominant lesion in generalized anthrax is:",
+    "options": {
+      "a": "heart",
+      "b": "brain",
+      "c": "lungs",
+      "d": "kidneys"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "631.What is used for emergency prophylaxis of anthrax?",
+    "options": {
+      "a": "chloramphenicol",
+      "b": "doxycycline",
+      "c": "cefixime",
+      "d": "specific anti-anthrax immunoglobulin"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "632.Early symptoms of tetanus include:",
+    "options": {
+      "a": "trismus",
+      "b": "opisthotonus",
+      "c": "tetanic seizures",
+      "d": "hypersalivation"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "633.A typical complication of tetanus is:",
+    "options": {
+      "a": "meningoencephalitis",
+      "b": "compression fracture of the spine",
+      "c": "pulmonary edema",
+      "d": "acute cardiovascular failure"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "634.The primary cause of death in tetanus is:",
+    "options": {
+      "a": "cerebral edema",
+      "b": "asphyxia",
+      "c": "toxic shock syndrome",
+      "d": "sepsis"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "635.The most characteristic sign of rabies at the agitation stage is:",
+    "options": {
+      "a": "hydrophobia",
+      "b": "claustrophobia",
+      "c": "respiratory paralysis",
+      "d": "persistent impairment of consciousness"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "636.The classic type of body temperature curve in acute brucellosis is:",
+    "options": {
+      "a": "intermittent",
+      "b": "permanent",
+      "c": "hectic",
+      "d": "wave-like"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "637.Chronic brucellosis predominantly affects:",
+    "options": {
+      "a": "musculoskeletal system and nervous system",
+      "b": "respiratory organs",
+      "c": "urogenital tract",
+      "d": "cardiovascular system"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "638. Antibiotic therapy for brucellosis uses a combination of:",
+    "options": {
+      "a": "doxycycline and ceftriaxone",
+      "b": "ampicillin and gentamicin",
+      "c": "doxycycline and gentamicin",
+      "d": "ciprofloxacin and ceftriaxone"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "639.The duration of antibiotic therapy for brucellosis is at least:",
+    "options": {
+      "a": "2 weeks",
+      "b": "3 weeks",
+      "c": "4 weeks",
+      "d": "6 weeks"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "640.A bubo in bubonic plaque is characterized by:",
+    "options": {
+      "a": "sharp tenderness",
+      "b": "absence of pain sensitivity",
+      "c": "mobility",
+      "d": "clear contours"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "641.The typical manifestation of the pneumonic form of plague is:",
+    "options": {
+      "a": "cough with frothy bloody sputum",
+      "b": "abundant physical signs",
+      "c": "cough with copious purulent sputum",
+      "d": "dry unproductive cough"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "642.A rapid diagnosis of plague consists of:",
+    "options": {
+      "a": "Bacteriological examination of biological samples",
+      "b": "Immunofluorescence staining with detection of pathogen antigen in biological samples",
+      "c": "Biological method",
+      "d": "Serologic test"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "643. Which of the following is used for emergency prevention of plague?",
+    "options": {
+      "a": "azithromycin",
+      "b": "chloramphenicol",
+      "c": "amoxicillin",
+      "d": "doxycycline"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "644.Tularemia bubo is characterized by:",
+    "options": {
+      "a": "moderate tenderness",
+      "b": "frequent suppuration",
+      "c": "adhesion to surrounding tissues in the acute period of the disease",
+      "d": "vague contours"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "645. Which of the following is used for antibacterial therapy for tularemia?",
+    "options": {
+      "a": "aminoglycosides",
+      "b": "macrolides",
+      "c": "penicillins",
+      "d": "carbapenems"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "646.The most informative clinical signs of leptospirosis include:",
+    "options": {
+      "a": "enlarged lymph nodes",
+      "b": "intense myalgias (predominantly in the calf muscles)",
+      "c": "specific pneumonia",
+      "d": "severe fever"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "647.The most common complication of leptospirosis is:",
+    "options": {
+      "a": "acute renal failure",
+      "b": "peritonitis",
+      "c": "acute heart failure",
+      "d": "cerebral edema"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "648.The manifestations of the initial period of hemorrhagic fever with renal syndrome (HFRS) include:",
+    "options": {
+      "a": "oliguria",
+      "b": "pallor of the skin",
+      "c": "high fever",
+      "d": "petechial rash"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "649.Typical clinical features of the oliguric stage of HFRS include:",
+    "options": {
+      "a": "headache",
+      "b": "lumbar pain",
+      "c": "myalgias",
+      "d": "intoxication syndrome"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "650.The typical urine changes in HFRS are:",
+    "options": {
+      "a": "hyposthenuria",
+      "b": "leukocyturia",
+      "c": "increased specific gravity",
+      "d": "glucosuria"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "651.The most common specific complication of HFRS is:",
+    "options": {
+      "a": "paranephritis",
+      "b": "acute liver failure",
+      "c": "acute renal failure",
+      "d": "kidney rupture"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "652.The typical clinical manifestation of sepsis is:",
+    "options": {
+      "a": "polylymphadenopathy",
+      "b": "hectic fever",
+      "c": "damage to digestive organs",
+      "d": "persistent fever"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "653.The symptom of a patient in precoma I is:",
+    "options": {
+      "a": "shrunk attention span",
+      "b": "disorientation in time and space",
+      "c": "nystagmus",
+      "d": "asterixis"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "654.Typical signs of coma II include:",
+    "options": {
+      "a": "confused consciousness",
+      "b": "clonic seizures",
+      "c": "areflexia",
+      "d": "nystagmus"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "655. An important feature of Mycobacterium tuberculosis (MBT) is:",
+    "options": {
+      "a": "spore formation",
+      "b": "acid resistance",
+      "c": "mobility",
+      "d": "immobility"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "656.What is the primary virulence factor of MBT?",
+    "options": {
+      "a": "variability",
+      "b": "tumor necrosis factor",
+      "c": "cord factor",
+      "d": "tolerance factor"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "657. MBTs are resistant to:",
+    "options": {
+      "a": "low temperatures",
+      "b": "high temperatures",
+      "c": "ultraviolet radiation",
+      "d": "chlorinated substances"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "658.MBTs exposed to direct sunlight:",
+    "options": {
+      "a": "will die in 2–5 minutes",
+      "b": "do not die",
+      "c": "will die in 2–4 hours",
+      "d": "will die in 7–10 hours"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "659.The following laboratory methods are used for microbiologic diagnosis of tuberculosis in the Russian Federation:",
+    "options": {
+      "a": "Microscopy, bacterial culture in dense and liquid nutrient media, molecular genetic methods",
+      "b": "Microscopy, bacterial culture in dense nutrient media",
+      "c": "Microscopy, bacterial culture in dense and liquid nutrient media",
+      "d": "Microscopy, bacterial culture in dense nutrient media, molecular biological methods, serologic tests"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "660. Sputum examination with Ziehl – Neelsen staining is performed to detect:",
+    "options": {
+      "a": "Mycobacterium",
+      "b": "Pneumococci",
+      "c": "Gram-negative bacteria",
+      "d": "Staphylococci"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "661.Fluorescence microscopy of the pathologic material in tuberculosis is based on:",
+    "options": {
+      "a": "the ability of MBTs stained with fluorochromes to glow when exposed to blue – violet light",
+      "b": "the ability of MBTs to absorb Ziehl – Neelsen stain",
+      "c": "sputum smear microscopy in immersion media",
+      "d": "the ability of MBT to glow when exposed to blue – violet light"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "662. Molecular genetic methods for detecting MBT include:",
+    "options": {
+      "a": "GeneXpert MTB/RIF",
+      "b": "Culture in the Lowenstein – Jensen medium",
+      "c": "BACTEC MGIT 960/320 automated method",
+      "d": "immunochromatography"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "663.The following method is recommended for accelerated detection of MBT with simultaneous diagnosis of its resistance to rifampicin:",
+    "options": {
+      "a": "GeneXpert MTB/RIF",
+      "b": "real-time PCR",
+      "c": "BACTEC MGIT 960/320 method",
+      "d": "DNA-STRIP technology"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "664.The duration of detecting MBT and MBT resistance to rifampicin by the GeneXpert MTB/RIF method is:",
+    "options": {
+      "a": "2 hours",
+      "b": "1 hour",
+      "c": "5-6 hours",
+      "d": "2 days"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "665.Drug resistance of MBT is subdivided into:",
+    "options": {
+      "a": "slow, rapid",
+      "b": "primary, secondary",
+      "c": "latent, ongoing",
+      "d": "inactive, active"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "666.The algorithm for diagnosing pulmonary tuberculosis in municipal-level health care organizations includes mandatory tests, such as sputum examination by microscopy:",
+    "options": {
+      "a": "three times within 2 days, plain chest X-ray, test with recombinant tuberculosis allergen",
+      "b": "twice within 2 days, plain chest X-ray, test with recombinant tuberculosis allergen",
+      "c": "three times within 2 days, test with recombinant tuberculosis allergen",
+      "d": "three times within 2 days, plain chest X-ray"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "667. If tuberculosis cannot be ruled out during mandatory diagnostic tests in municipal-level medical organizations, the patient is treated with:",
+    "options": {
+      "a": "multislice computed tomography",
+      "b": "bronchoscopy with a set of biopsies",
+      "c": "tuberculosis trial therapy",
+      "d": "culture of diagnostic material"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "668.Who proved the infectious nature of tuberculosis?",
+    "options": {
+      "a": "Koch",
+      "b": "Pasteur, Calmette",
+      "c": "Villemin, Calmette",
+      "d": "Pasteur, Guerin"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "669.Tuberculin contains:",
+    "options": {
+      "a": "individual antigenic components of Mycobacterium tuberculosis",
+      "b": "live-attenuated Mycobacterium tuberculosis",
+      "c": "antibodies to Mycobacterium tuberculosis",
+      "d": "killed Mycobacterium bovis"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "670. Conversion of tuberculin sensitivity is defined as:",
+    "options": {
+      "a": "First-time positive Mantoux test with 2 tuberculin units of PPD-L after a previously negative test for a year not associated with BCG vaccination or revaccination",
+      "b": "first-time negative Mantoux test with 2 tuberculin units of PPD-L after a previously positive test for a year not associated with BCG vaccination or revaccination.",
+      "c": "first-time positive Mantoux test with 2 tuberculin units of PPD-L after a previously negative test for one year after BCG vaccination or revaccination",
+      "d": "first-time hyperergic response to Mantoux test with 2 TE of PPD-L after a previously positive test for one year"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "671.Recombinant tuberculosis allergen is:",
+    "options": {
+      "a": "MBT blood culture broth containing a large amount of antigens",
+      "b": "a culture of killed bovine MBTs",
+      "c": "proteins from virulent MBT strains whose genes are expressed during MBT multiplication",
+      "d": "a culture extract from human and bovine MBTs"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "672.A positive test with recombinant tuberculosis allergen can be observed in infections with:",
+    "options": {
+      "a": "Mycobacterium tuberculosis humanis, Mycobacterium leprae, and Mycobacterium bovis BCG",
+      "b": "Mycobacterium bovis BCG and Mycobacterium tuberculosis humanis",
+      "c": "Mycobacterium leprae and Mycobacterium tuberculosis bovis only",
+      "d": "Mycobacterium tuberculosis bovis, Mycobacterium tuberculosis humanis, and Mycobacterium leprae"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "673. Diagnostic measures are required for children who showed the following results in mass immunodiagnosis of tuberculosis:",
+    "options": {
+      "a": "a positive Mantoux test with 2 tuberculin units (TU) of PPD-L",
+      "b": "a first-time positive Mantoux test with 2 TU of PPD-L",
+      "c": "a first-time negative Mantoux test with 2 TU of PPD-L",
+      "d": "a doubtful Mantoux test with 2 TU of PPD-L"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "674.Prophylactic immunizations can be carried out after a test with recombinant tuberculosis allergen:",
+    "options": {
+      "a": "immediately after interpreting the analysis of the sample for TB if the result is negative",
+      "b": "immediately after interpreting the analysis of the sample for TB, regardless of its result",
+      "c": "Fourteen days after interpreting the analysis of the sample for TB",
+      "d": "immediately after interpreting the analysis of the sample for TB if the result is positive"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "675. Diagnostic measures are required for adolescents who showed the following results in mass immunodiagnosis of tuberculosis:",
+    "options": {
+      "a": "only a doubtful response to tuberculosis recombinant allergen test",
+      "b": "a negative response to tuberculosis recombinant allergen test",
+      "c": "only a hyperergic response to tuberculosis recombinant allergen test",
+      "d": "a doubtful and positive response to tuberculosis recombinant allergen test"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "676.The difference between the recombinant tuberculosis allergen test and the QuantiFERON-TB Gold test is that:",
+    "options": {
+      "a": "recombinant tuberculosis allergen test is performed in vivo, while QuantiFERON-TB® Gold is performed in vitro",
+      "b": "The recombinant tuberculosis allergen contains multiple antigens, while QuantiFERON-TB® Gold uses three antigens",
+      "c": "a positive recombinant tuberculosis allergen test indicates tuberculosis, while a positive QuantiFERON-TB® Gold test indicates latent tuberculosis infection",
+      "d": "a positive recombinant tuberculosis allergen test indicates latent tuberculosis infection, and a positive QuantiFERON-TB® Gold indicates tuberculosis infection"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "677.The difference between the recombinant tuberculosis allergen test and the Mantoux test with 2 TU of PPD-L is that:",
+    "options": {
+      "a": "the recombinant tuberculosis allergen test is performed in vivo, while the Mantoux test with 2 TU of PPD-L is performed in vitro",
+      "b": "Tuberculin contains multiple antigens, while recombinant tuberculosis allergen contains only two antigens",
+      "c": "a positive recombinant tuberculosis allergen test always indicates tuberculosis, but a positive Mantoux test with 2 TU of PPD-L indicates latent tuberculosis infection",
+      "d": "a positive recombinant tuberculosis allergen test always indicates latent tuberculosis infection, and a positive Mantoux test with 2 TU of PPD-L indicates tuberculosis."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "678. Factors that increase the sensitivity of the skin to tuberculin are:",
+    "options": {
+      "a": "diabetes mellitus and cancers",
+      "b": "allergic diseases and worm infestations",
+      "c": "desensitization therapy and excessive body weight",
+      "d": "smoking and sarcoidosis"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "679.Foci of tuberculosis infection are subdivided into:",
+    "options": {
+      "a": "five groups",
+      "b": "two groups",
+      "c": "six groups",
+      "d": "three groups"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "680. An integral part of social prevention of tuberculosis is:",
+    "options": {
+      "a": "working in foci of tuberculosis infection",
+      "b": "free sanatorium – resort treatment for TB patients",
+      "c": "isolation of a tuberculosis patient",
+      "d": "early detection of tuberculosis among the population"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "681.An integral part of sanitary prevention of tuberculosis is:",
+    "options": {
+      "a": "working in foci of tuberculosis infection",
+      "b": "improving working conditions, controlling occupational hazards",
+      "c": "obtaining a 12-month disability certificate",
+      "d": "free sanatorium – resort treatment of a TB patient"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "682.The highest risk of new cases of tuberculosis is observed in the foci of:",
+    "options": {
+      "a": "group 1",
+      "b": "group 3",
+      "c": "group 2",
+      "d": "group 4"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "683.The most epidemiologically dangerous focus of tuberculosis infection is formed by a patient:",
+    "options": {
+      "a": "with pulmonary tuberculosis with isolation of MBT and with the presence of children or adolescents nearby",
+      "b": "with pulmonary tuberculosis with isolation of MBT and only adults nearby",
+      "c": "with pulmonary tuberculosis without MBT isolation",
+      "d": "with extrapulmonary tuberculosis with MBT isolation"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "684. A prerequisite for the formation of artificial specific immunity against tuberculosis is:",
+    "options": {
+      "a": "infection with MBT",
+      "b": "BCG or BCG-M vaccination",
+      "c": "regular immunodiagnosis",
+      "d": "preventive treatment"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "685.In most cases, the source of tuberculosis infection is:",
+    "options": {
+      "a": "a person who suffers from tuberculosis",
+      "b": "an animal with tuberculosis",
+      "c": "water",
+      "d": "food"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "686. Artificial specific anti-tuberculosis immunity is formed after BCG vaccination after",
+    "options": {
+      "a": "6–8 weeks",
+      "b": "6–8 months",
+      "c": "1 year",
+      "d": "1 month"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "687. Anti-epidemic measures in a focus of tuberculosis infection include:",
+    "options": {
+      "a": "obtaining a temporary disability certificate for 12 months",
+      "b": "early detection of tuberculosis in the population",
+      "c": "carrying out routine and final disinfection",
+      "d": "improving living conditions of the patient and his/her family members"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "688. A contraindication to BCG-M vaccination is:",
+    "options": {
+      "a": "prematurity (body weight less than 2,500 g)",
+      "b": "prematurity (body weight less than 2,300 g)",
+      "c": "perinatal exposure to HIV",
+      "d": "Apgar score at birth of less than 7"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "689.The concept of a \"minor form\" of intrathoracic lymph node tuberculosis refers to:",
+    "options": {
+      "a": "mild hyperplasia of 1–2 lymph nodes with minimal central caseosis",
+      "b": "bilateral hyperplasia of lymph nodes with a marked perifocal inflammatory response",
+      "c": "a single focus of acinous or lobar caseous pneumonia located subpleurally",
+      "d": "Caseous degeneration of 2 or more lymph nodes with a small zone of perifocal inflammatory response"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "690.Morphological criteria to distinguish between infiltrative and tumor-like forms of tuberculosis in intrathoracic lymph nodes are:",
+    "options": {
+      "a": "the number of lymph node groups involved in the pathologic process",
+      "b": "the degree of calcification in the lymph nodes",
+      "c": "the ratio of hyperplastic to caseous changes in the lymph node tissue",
+      "d": "the involvement of bronchi and lung tissue in the process"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "691.The radiologic symptom of bipolarity in primary tuberculosis corresponds to the phase of:",
+    "options": {
+      "a": "infiltration",
+      "b": "dissolution",
+      "c": "Thickening",
+      "d": "Calcification",
+      "e": "Petrification"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "692.In primary tuberculosis, paraspecific changes are manifested by:",
+    "options": {
+      "a": "pleurisy, peritonitis, and pericarditis",
+      "b": "rhinitis, sinusitis, tonsillitis",
+      "c": "keratoconjunctivitis, blepharitis, erythema nodosum",
+      "d": "pneumonia, chronic obstructive bronchitis, bronchial asthma",
+      "e": "exudative, allergic diathesis phenomena"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "693.The primary tuberculosis complex consists of:",
+    "options": {
+      "a": "primary granuloma, systemic vasculitis, and seeding foci",
+      "b": "primary affect, regional lymphangitis, regional lymphadenitis",
+      "c": "primary tuberculoma, systemic lymphangitis, systemic vasculitis",
+      "d": "primary cavernous, regional hemorrhagic vasculitis, endobronchial tuberculosis",
+      "e": "primary granuloma, endobronchial tuberculosis, paraspecific changes"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "694.The main morphological feature of acute (miliary) hematogenous disseminated pulmonary tuberculosis is:",
+    "options": {
+      "a": "small monomorphic productive foci in the lungs",
+      "b": "multiple exudative – caseous foci in the lungs",
+      "c": "multiple cavernous foci in the lungs",
+      "d": "tuberculosis lesions of the bronchi",
+      "e": "bronchogenic seeding foci in the lungs"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "695.Acute (miliary) hematogenous disseminated pulmonary tuberculosis occurs if a patient has:",
+    "options": {
+      "a": "refractory cough, and polymorphic dissemination in the lungs",
+      "b": "marked dyspnea and total darkening of the lung",
+      "c": "hyperergic response to tuberculin tests, intoxication syndrome, and pulmonary dissemination",
+      "d": "severe inflammatory intoxication of unclear genesis combined with total monomorphic lung dissemination"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "696.The characteristic form of TB cavities in subacute disseminated pulmonary tuberculosis is:",
+    "options": {
+      "a": "bilateral symmetrical thin-walled caverns",
+      "b": "bilateral asymmetrical thick-walled caverns",
+      "c": "unilateral multiple caverns with different shapes",
+      "d": "a single thick-walled cavern and multiple thin-walled satellite caverns"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "697.The most typical radiologic features of chronic hematogenous disseminated pulmonary tuberculosis are:",
+    "options": {
+      "a": "predominant middle lung involvement, bilateral monomorphic focal dissemination in the lungs",
+      "b": "unilateral massive lung lesions, multiple caverns in the lung, foci of bronchogenic seeding",
+      "c": "bilateral upper cortical lung lesions, polymorphic focal dissemination against the background of diffuse pneumosclerosis",
+      "d": "bilateral lower lung lesions, bilateral small focal dissemination in the lungs"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "698.Characteristic features of subacute disseminated pulmonary tuberculosis include:",
+    "options": {
+      "a": "monomorphic small focal dissemination, distribution of foci is even, destruction of lung tissue is uncharacteristic, and bacterial excretion is uncharacteristic",
+      "b": "monomorphic large focal dissemination, distribution of foci is even, lung tissue destruction is characteristic, bacterial excretion is characteristic",
+      "c": "polymorphic focal dissemination, foci distribution is irregular, lung tissue destruction is characteristic, bacterial excretion is characteristic",
+      "d": "polymorphic focal dissemination, focal distribution is irregular, pulmonary tissue destruction is uncharacteristic, bacteriuria is uncharacteristic"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "699. Secondary tuberculosis develops in:",
+    "options": {
+      "a": "children whose parents have tuberculosis",
+      "b": "persons who have had any form of tuberculosis infection (infection, disease)",
+      "c": "adults under 30 years of age with a negative Mantoux test",
+      "d": "adolescents from tuberculosis foci"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "700. Focal tuberculosis is most often detected in:",
+    "options": {
+      "a": "clinical examination of patients presenting with characteristic complaints",
+      "b": "preventive fluorography",
+      "c": "sputum microscopy",
+      "d": "bronchoscopy"
+    },
+    "correct_answer": "b"
+  }
+]
