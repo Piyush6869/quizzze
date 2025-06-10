@@ -77,7 +77,7 @@ function Quiz({ questions }) {
                     disabled={showResults} // Disable input after submitting
                   />
                   <label htmlFor={`q${qIndex}-option-${optionKey}`}>
-                     
+                     {question.options[optionKey]}
                   </label>
                   {showResults && (
                     <span className="result-indicator">
